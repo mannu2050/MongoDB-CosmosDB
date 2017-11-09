@@ -1,0 +1,40 @@
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\obj\Debug\MongoDB Application.csprojResolveAssemblyReference.cache
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\csc.exe
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\vbc.exe
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\VBCSCompiler.exe
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\MongoDB Application.dll.config
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\MongoDB Application.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\MongoDB Application.pdb
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\MongoDB.Bson.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\MongoDB.Driver.Core.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\MongoDB.Driver.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Helpers.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Mvc.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Razor.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Webpages.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Webpages.Razor.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\MongoDB.Bson.xml
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\MongoDB.Driver.xml
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\MongoDB.Driver.Core.xml
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Razor.xml
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Webpages.xml
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Webpages.Razor.xml
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Helpers.xml
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\bin\System.Web.Mvc.xml
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\obj\Debug\MongoDB Application.dll
+C:\Users\mansha\Source\Repos\My Own Project\MongoDB Application\MongoDB Application\obj\Debug\MongoDB Application.pdb

@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "ProductView";
+}
+
+<h2>Index view</h2>
+
+<h2>Add Product </h2>
+<h6>@Html.ActionLink("Go Back", "Index", "FormCollection")</h6>
+@using (@Html.BeginForm("Add", "Product", FormMethod.Post))
+{
+    <table>
+        <tr>
+            <td>@Html.Label("Product Name")</td>
+            <td>:</td>
+            <td>@Html.TextBox("ProductName")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Product ID")</td>
+            <td>:</td>
+            <td>@Html.TextBox("ProductID")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Product Description")</td>
+            <td>:</td>
+            <td>@Html.TextBox("ProductDescription")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Product Price")</td>
+            <td>:</td>
+            <td>@Html.TextBox("ProductPrice")</td>
+        </tr>
+        <tr>
+           <td></td>
+            <td><input type="submit" value="Save" /></td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Reset the Product Values")</td>
+            <td>:</td>
+            <td><input type="reset" value="Reset" /></td>
+        </tr>
+    </table>
+}  
